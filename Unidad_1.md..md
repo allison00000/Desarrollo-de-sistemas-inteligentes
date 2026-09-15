@@ -9,8 +9,9 @@ un sistema automatizado que ejecuta una serie de eventos
 3. **Centralización de la observabilidad industrial (Acindar):La compañía siderúrgica necesitaba optimizar el monitoreo de toda su infraestructura de TI existente.
 4. **Control masivo de sitios minoristas (EXECON): - La empresa necesitaba simplificar una arquitectura compleja de monitoreo distribuido para crecer con facilidad.
 5. **Supervisión de validaciones médicas y SLA (Zabbix BSM: Una organización del sector salud requería vigilar la disponibilidad de servicios de validación médica en tiempo real.
-Actividad 1.3
-Investiga 3 definiciones de sistemas inteligentes
+
+**Actividad 1.3** 14/09/2026
+**Investiga 3 definiciones de sistemas inteligentes**
 
 1-Los sistemas inteligentes resuelven problemas complejos de manera automática y eficaz en ambientes específicos, a través de la colaboración de personas y tecnologías como el Big Data, el IoT (“Internet of things” o “Internet de las cosas”), las redes móviles (3G, 4G, 5G), la inteligencia artificial, la robótica, la video analítica, la visión artificial y la realidad aumentada, entre otras.
 2-Un sistema inteligente es un conjunto de [tecnología industrial](https://sdindustrial.com.mx/blog/tecnologia-industrial/) avanzada, [sensores](https://sdindustrial.com.mx/blog/sensores/) y algoritmos, que trabajan conjuntamente para llevar a cabo tareas específicas de manera autónoma y eficiente. Estos sistemas son capaces de percibir su entorno, procesar información y tomar decisiones con poca o ninguna intervención humana.
