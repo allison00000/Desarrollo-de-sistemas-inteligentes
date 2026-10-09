@@ -62,3 +62,5 @@ Complejidad en tiempo
 Es la cantidad de operaciones o el tiempo de ejecución que puede necesitar el algoritmo conforme aumenta el tamaño del problema.
 Complejidad en espacio
 Es la cantidad de memoria que necesita para almacenar los estados y la información de búsqueda.
+actividad3.1.2
+![[WhatsApp Image 2026-10-08 at 6.25.22 PM.jpeg|385]]![[WhatsApp Image 2026-10-08 at 6.26.16 PM.jpeg|388]]![[WhatsApp Image 2026-10-08 at 6.27.19 PM.jpeg|366]]![[WhatsApp Image 2026-10-08 at 6.28.02 PM.jpeg|364]]BFS prioriza explorar por niveles, mientras que Dijkstra prioriza el costo acumulado de cada ruta. En un mapa donde todos los movimientos tienen el mismo costo, ambos pueden encontrar caminos óptimos, si existen costos diferentes, Dijkstra puede encontrar la ruta de menor costo.
