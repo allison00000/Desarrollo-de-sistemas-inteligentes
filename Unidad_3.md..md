@@ -64,3 +64,30 @@ Complejidad en espacio
 Es la cantidad de memoria que necesita para almacenar los estados y la información de búsqueda.
 actividad3.1.2
 ![[WhatsApp Image 2026-10-08 at 6.25.22 PM.jpeg|385]]![[WhatsApp Image 2026-10-08 at 6.26.16 PM.jpeg|388]]![[WhatsApp Image 2026-10-08 at 6.27.19 PM.jpeg|366]]![[WhatsApp Image 2026-10-08 at 6.28.02 PM.jpeg|364]]BFS prioriza explorar por niveles, mientras que Dijkstra prioriza el costo acumulado de cada ruta. En un mapa donde todos los movimientos tienen el mismo costo, ambos pueden encontrar caminos óptimos, si existen costos diferentes, Dijkstra puede encontrar la ruta de menor costo.
+
+Heuristica
+La **heurística** es el conjunto de técnicas, estrategias o atajos mentales de carácter práctico que permiten resolver problemas, tomar decisiones o hacer descubrimientos de forma rápida, aunque no garanticen una solución perfecta o 100% óptima.
+
+**En inteligencia artificial y computación:** Son algoritmos o métodos prácticos que exploran grandes volúmenes de datos para dar con una solución "suficientemente buena" en poco tiempo, evitando revisar cada combinación posible.
+
+***actividad 3.2***
+Compara een la pagina dos algoritmos (A*) y uno ciego. Contestar las siguientes preguntas:
+
+**qué longitud tiene cada algoritmo?**
+A*(Manhattan)=22
+A*(Manhattan(Allow diagonal))=16.73
+Breadth-First-Search=22
+Breadth-First-Search(Allow diagonal16.73
+**cuanto tiempo se tardo cada algoritmo?**
+A*(Manhattan1.0000ms
+A*(Manhattan(Allow diagonal))=0.0000ms
+Breadth-First-Search=2.0000ms
+Breadth-First-Search(Allow diagonal)=1.0000ms
+que diferencia observas?
+solo cambia si contiene "Allow diagonal" de lo contrario los tiempos y la longitud son lo mismo en los dos algoritmos 
+
+
+
+
+![[Captura de pantalla 2026-10-14 a la(s) 3.59.02 p.m..png]]
+![[Captura de pantalla 2026-10-14 a la(s) 4.00.58 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.03.56 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.05.01 p.m..png]]
