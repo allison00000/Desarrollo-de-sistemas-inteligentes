@@ -140,4 +140,6 @@ El éxito de las redes neuronales transformó por completo la industria de los g
 - **Generación de fotogramas y Ray Tracing:** Las redes neuronales dentro de la GPU ayudan a predecir e interpolar fotogramas completos (Frame Generation) y a "limpiar" el ruido visual que genera el cálculo de iluminación realista (_Ray Tracing_) mediante algoritmos de _denoising_ basados en IA.
 
 - **Optimización del propio silicio:** Los ingenieros ahora utilizan redes neuronales para **diseñar la próxima generación de GPUs**, optimizando el acomodo de los transistores en el chip para que consuman menos energía y disipen mejor el calor.
-- 
+
+Actividad 3.5
+![[Redes Neuronales.png]]
