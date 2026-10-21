@@ -87,7 +87,31 @@ que diferencia observas?
 solo cambia si contiene "Allow diagonal" de lo contrario los tiempos y la longitud son lo mismo en los dos algoritmos 
 
 
-
-
 ![[Captura de pantalla 2026-10-14 a la(s) 3.59.02 p.m..png]]
-![[Captura de pantalla 2026-10-14 a la(s) 4.00.58 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.03.56 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.05.01 p.m..png]]
+![[Captura de pantalla 2026-10-14 a la(s) 4.00.58 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.03.56 p.m..png]]![[Captura de pantalla 2026-10-14 a la(s) 4.05.01 p.m..png]]### Preguntas
+
+**1. Sección “How does machine learning work?”** El artículo menciona tres tipos de aprendizaje. Anótalos y escribe con tus palabras en qué se diferencian.
+aprendizaje supervisado:cuando el algoritmo aprende usando datos que ya vienen clasificados de manera correcta o incorrecta, el objetivo es clasificar los nuevos datos teniendo como referencia los anteriores
+Aprendizaje sin supervisión: El modelo analiza datos que no tienen etiquetas ni respuestas previas. Su propósito es explorar la información, agruparla y descubrir patrones o relaciones ocultas por sí mismo.
+**2. Sección “What is machine learning used for?”** Elige una aplicación (reconocimiento de imágenes, diagnóstico médico, conducción automática, texto y voz) y describe con las ideas de la clase de qué se trata: ¿cuál sería la tarea (T) y qué datos serían la experiencia (E)?
+Tarea (T): Procesar la información del entorno para tomar decisiones de navegación seguras en tiempo real (acelerar, frenar, girar, evitar obstáculos).
+Experiencia (E): Todos los datos en tiempo real e históricos captados por los sensores del vehículo mientras circula y reacciona al tráfico.
+3.⁠ ⁠Sección “When to use machine learning?”
+¿Cuándo usarlo? Conviene usar ML cuando los métodos tradicionales no pueden procesar enormes volúmenes de datos estadísticos o cuando no es posible resolver el problema con reglas fijas o cálculos simples debido a la complejidad de los patrones.
+Ejemplo donde NO convendría: El cálculo del IVA o de impuestos fijos sobre una compra. Al ser una regla matemática exacta y sin variación, se resuelve mejor con programación tradicional basada en reglas lógicas.
+4.⁠ ⁠Sección de aplicaciones, “Fraud detection” y “Anomaly detection”
+Por qué tiene sentido el enfoque no supervisado: Como los fraudes raros o complejos no suelen tener un patrón conocido previa ni datos explícitamente categorizados, los modelos no supervisados pueden aprender lo que es "normal" y detectar cualquier irregularidad nueva que un humano no vería.
+Problema del modelo supervisado: Necesita datos previamente etiquetados como "fraude" para aprender. Si surge un tipo de fraude nuevo que nunca antes fue etiquetado, el modelo supervisado no sabrá reconocerlo y no lo detectará.
+5.⁠ ⁠Sección de aplicaciones, “Healthcare”
+Elegí el sector de Salud (Cuidado de la salud):
+El peor error: El falso negativo (decirle a un paciente que está sano cuando en realidad tiene una enfermedad o insuficiencia cardíaca).
+Por qué: Si el modelo falla dando un falso negativo, el paciente no recibirá el tratamiento médico necesario a tiempo, lo que pone en riesgo directo su vida. Un falso positivo, en cambio, solo llevaría a realizar pruebas adicionales para desmentir la falsa alarma.
+6.⁠ ⁠Sección “Machine learning examples by company”
+Elegí el caso de Amazon:
+Datos que usa el sistema: El historial de compras, las búsquedas realizadas y la navegación que hace el usuario en la plataforma.
+Quién se beneficia: Tanto Amazon (porque aumenta sus ventas) como el comprador (porque recibe recomendaciones de productos útiles e interesantes para él).
+Quién sale perjudicado: El usuario en el ámbito de su privacidad, ya que toda su actividad es rastreada continuamente para influir en sus decisiones de compra.
+7.⁠ ⁠Lectura crítica
+Lo que me hace dudar de la información del artículo:
+Promesa del título incumplida: El título dice que habrá "12 aplicaciones y ejemplos", pero al revisar el texto solo se enumeran 11 áreas/aplicaciones principales antes de pasar a promocionar sus propios servicios.
+Conflicto de interés y métricas infladas: El artículo lo escribe Helpware Tech (una empresa que vende servicios de consultoría de ML) y dan cifras como "6X CTR", "3X CVR" u "80% de precisión" sin explicar la metodología de medición ni dar pruebas objetivas.
