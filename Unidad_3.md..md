@@ -143,3 +143,12 @@ El éxito de las redes neuronales transformó por completo la industria de los g
 
 Actividad 3.5
 ![[Redes Neuronales.png]]
+
+Actividad 3.6
+Motores de Inferencia
+
+|             | Mamdani                                                                                                                                                               | Takagi-Sugeno                                                                                                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ventajas    | Es muy intuitivo y fácil de entender por humanos, adecuado para el diseño de sistemas basados en el conocimiento experto, expresión lingüística natural de las reglas | Alta eficiencia computacional, funciona muy bien con técnicas de optimización y aprendizaje sintético (como redes neuronales), produce una salida continua y suave ideal para análisis matemático y control |
+| Desventajas | Mayor costo y lentitud computacional (debido al proceso de desdifusificación), menos preciso para el análisis matemático estricto                                     | Menos intuitivo y más difícil de interpretar cualitativamente, dificultad para formular las reglas directamente desde la experiencia humana sin datos numéricos                                             |
+| Definición  | Es un método de inferencia difusa donde tanto el antecedente (SI) como el consecuente (ENTONCES) son conjuntos difusos explicados mediante lenguaje humano.           | Es un método de inferencia difusa donde el antecedente (SI) es difuso, pero el consecuente (ENTONCES) es una función matemática (polinómica o constante) de las variables de entrada.                       |
